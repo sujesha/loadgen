@@ -1,0 +1,7 @@
+Logfile ready
+13165
+libpcap's filtering string = host 192.168.112.201
+self_addr_str = 192.168.112.201
+affine_addr_str = 192.168.112.202
+Activated SIGINT and SIGTERM interrupt catchers
+Activated logging_interval ALARM
